@@ -230,6 +230,11 @@ header p {
   font-size: 85%;
 }
 
+.sidebar:hover {
+  color: #000;
+  font-size: 100%;
+}
+
 .sidebar h3 {
   font-size: 138.5%;
   margin-bottom: 7px;
