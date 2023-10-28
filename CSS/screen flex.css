@@ -320,6 +320,21 @@ header p {
   animation: rotation 2s infinite  forwards;
  }
 
+ .grocery-list {
+  background-color: #a5d0e6;
+
+ }
+
+ .grocery-list td {
+  border: 2px solid black;
+  padding: 10px 10px;
+ }
+ .grocery-list th {
+  font-size: large;
+  border: 2px solid black;
+  padding: 10px 20px;
+ }
+
 .col-xs-11 {width: 91.662%}
 .col-xs-10 {width: 83.332%;}
 .col-xs-9 {width: 75%;}
