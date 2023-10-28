@@ -329,6 +329,11 @@ header p {
   border: 2px solid black;
   padding: 10px 10px;
  }
+
+ .grocery-list td:hover {
+  font-weight: bold;
+ }
+
  .grocery-list th {
   font-size: large;
   border: 2px solid black;
